@@ -4,7 +4,6 @@ This dataset is public available for research, refer- [Moro et al., 2014],S. Mor
 The data is related with direct marketing campaigns of a Portuguese banking institution. 
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access,
 If the product (bank term deposit) would be ('yes') or not ('no') subscribed.
-The main intention to use this problem was for Streamlit library in Python. We have deployed the ML solution used in Python using Streamlit, which predicts the outcome,
-with the defined parameters.
 ## Use of Streamlit
-The predictions can be seen via web interface which is acheived my means of streamlit library used in python. This can be also acheived in Flask, however I came to know about streamlit through one of the youtuber's recommendation- credit- Krish Naik.
+The main intention to use this problem was for Streamlit library in Python. We have deployed the ML solution used in Python using Streamlit, which predicts the outcome,
+with the defined parameters.The predictions can be seen via web interface which is acheived my means of streamlit library used in python. This can be also acheived in Flask, however I came to know about streamlit through one of the youtuber's recommendation- credit- Krish Naik.
